@@ -1,0 +1,11 @@
+.container {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
